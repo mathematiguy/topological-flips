@@ -1,0 +1,6 @@
+ipython
+jupyter
+jupyterlab
+sympy
+numpy
+matplotlib
