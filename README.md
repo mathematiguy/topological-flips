@@ -6,6 +6,9 @@ Contributors:
 Gabriel Martins (@holomorpheus)  
 José Bravo (@jbravo87)
 
+__Run with Docker__
+Build the docker container with `make docker`, then enter a container with `make enter` after which you can run `python3 main.py`.
+
 __Necessary Applications__
 
 - Python 3  
